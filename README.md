@@ -38,22 +38,18 @@ Me chamo Pedro Fraga, tenho 18 anos e sou do Espirito Santo. Concluí o ensino m
 
 ### 📊 Estatísticas 
 
-<img 
-    align="left" 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Pedr-Cloud&show_icons=true&theme=dracula&locale=pt-br" 
-/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr-cloud&theme=dracula&layout=compact&custom_title=Tecnologias" 
   />
-</p>
-
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr-cloud&theme=dracula&layout=compact&custom_title=Tecnologias" 
+  />
+</div>
 
 
 
